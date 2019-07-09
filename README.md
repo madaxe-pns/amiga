@@ -1,2 +1,0 @@
-# Amiga
-Amiga stuff
