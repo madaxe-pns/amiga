@@ -1,3 +1,4 @@
-Amiga
+Amiga Stuff
 
-BlitzBasic - A Colection of Blitz Basic 2 samples
+BlitzBasic
+A Collection of Blitz Basic 2 samples to get you started on this wonderful Language
