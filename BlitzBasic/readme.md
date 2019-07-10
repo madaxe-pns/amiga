@@ -5,4 +5,4 @@
 Binary Files handling routines.
 
 ### Graphics
-Graphical stuff
+Graphical stuff.
