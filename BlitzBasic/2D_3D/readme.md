@@ -5,7 +5,7 @@ Performs a simple rotation in 2D of a Square.
 Performs a simple rotation in 2D of a Octagon.
 
 ### 2D_03.bb
-Performs a simple rotation in 2D of Octagon using a Sin and Cos Table (sincostab.dat) created previously.
+Performs a simple rotation in 2D of Octagon using a Sin and Cos Table created previously (sincostab.dat).
 
 ### 3D_01.bb
 Simple 3D Engine
