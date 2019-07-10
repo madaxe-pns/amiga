@@ -1,3 +1,5 @@
-2D_3D - 2D and 3D stuff.
+### 2D_3D
+2D and 3D stuff.
 
-Files - Reads and Writes Binary Files
+### Files
+Reads and Writes Binary Files
