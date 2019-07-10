@@ -20,4 +20,4 @@ Creates a BitMap and draws Lines on AGA - 8 BitPlanes : 256 Colours.
 Creates a BitMap in OCS/ECS - 5 BitPlanes : 32 Colours.
 Get the Font Shapes from the BitMap and Displays it.
 Get 4 Sprites from the BitMap ans Displays it.
-Draw Lines.
+Draw Lines..
