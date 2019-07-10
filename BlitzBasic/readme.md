@@ -3,3 +3,6 @@
 
 ### Files
 Reads and Writes Binary Files.
+
+### Graphics
+Graphic stuff
