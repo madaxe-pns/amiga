@@ -2,7 +2,7 @@
 2D and 3D stuff.
 
 ### Files
-Reads and Writes Binary Files.
+Binary Files handling routines.
 
 ### Graphics
-Graphic stuff
+Graphical stuff
