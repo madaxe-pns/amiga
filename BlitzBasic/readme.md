@@ -6,3 +6,6 @@ Binary Files handling routines.
 
 ### Graphics
 Graphical stuff.
+
+### Joystick
+Joystick usage examples.
