@@ -9,3 +9,6 @@ Graphical stuff.
 
 ### Joystick
 Joystick usage examples.
+
+### Mouse
+Mouse usage examples.
