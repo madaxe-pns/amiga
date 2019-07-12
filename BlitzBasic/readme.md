@@ -14,13 +14,13 @@ Multiple Coppers examples.
 Joystick usage examples.
 
 ### Lists
-Dynamic Lists examples
+Dynamic Lists examples.
 
 ### Misc
-Miscellaneous examples
+Miscellaneous examples.
 
 ### Mouse
 Mouse usage examples.
 
 ### Music
-Music and Sound examples
+Music and Sound examples.
