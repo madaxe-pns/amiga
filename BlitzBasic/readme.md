@@ -18,3 +18,6 @@ Miscellaneous examples
 
 ### Mouse
 Mouse usage examples.
+
+### Music
+Music and Sound examples
