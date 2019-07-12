@@ -7,6 +7,9 @@ Binary Files handling routines.
 ### Graphics
 Basic Graphical stuff.
 
+### InitCopperList
+Multiple Coppers examples.
+
 ### Joystick
 Joystick usage examples.
 
