@@ -1,2 +1,2 @@
 ### Space.bb
-Kind of a simple demo on OCS/ECS
+A Kind of a simple demo on OCS/ECS with music and animations.
